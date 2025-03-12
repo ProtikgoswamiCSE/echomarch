@@ -6,6 +6,6 @@ class Home extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: const FAppBar());
+    return Scaffold(appBar: const FAppBar(title: "Mega Shop"));
   }
 }
